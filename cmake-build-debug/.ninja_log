@@ -1,0 +1,8 @@
+# ninja log v5
+3	315	7376570350435350	CMakeFiles/Lab4Part2.dir/main.cpp.obj	8867fd4b6663d7cf
+7	325	7376570350540502	CMakeFiles/Lab4Part2.dir/matrix.cpp.obj	9523db6ecc49d959
+325	423	7376570351504108	Lab4Part2.exe	c84124f5fe115cbb
+16	300	7376575227568637	CMakeFiles/Lab4Part2.dir/matrix.cpp.obj	9523db6ecc49d959
+300	375	7376575228297679	Lab4Part2.exe	c84124f5fe115cbb
+6	305	7376576655186991	CMakeFiles/Lab4Part2.dir/matrix.cpp.obj	9523db6ecc49d959
+306	369	7376576655812276	Lab4Part2.exe	c84124f5fe115cbb

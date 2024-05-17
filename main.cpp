@@ -1,4 +1,4 @@
-/** \file Tutorial4Part2Monday.cpp
+/** \file main.cpp
  *  \brief     A little program
  *  \details   The program ..
  *  \author    Harald Gjermundrod
